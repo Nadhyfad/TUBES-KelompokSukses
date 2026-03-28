@@ -1,2 +1,2 @@
-# TUBES Kelompok Sukses - Cooktique
-Cooktique is a mobile-based recipe application that allows users to search, manage, and share recipes with features such as comments, ratings, and favorites.
+# Tugas Besar Kelompok Sukses - Cooktique
+Cooktique adalah aplikasi resep masakan berbasis mobile yang memungkinkan pengguna mencari, mengelola, dan berbagi resep dengan fitur komentar, rating, dan favorit.
